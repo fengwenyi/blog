@@ -16,17 +16,18 @@ export default defineUserConfig({
         link: '/',
       },
       {
-        text: '指南',
-        link: '/guide/',
+        text: '博客',
+        link: '/blog/',
       },
     ],
     sidebar: {
-      '/guide/': [
+      '/blog/': [
         {
           text: '指南',
           children: [
-            '/guide/',
-            '/guide/getting-started.md',
+            '/blog/',
+            '/blog/getting-started.md',
+            '/blog/OffsetDateTime.md'
           ],
         },
       ],
