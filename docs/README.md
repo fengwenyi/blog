@@ -4,10 +4,10 @@ heroImage: /images/logo/JavaLib-main.svg
 heroImageDark: /images/logo/JavaLib-main-dark.svg
 actions:
   - text: 快速上手
-    link: /guide/getting-started.md
+    link: /blog/getting-started.md
     type: primary
   - text: 项目简介
-    link: /guide/
+    link: /blog/
     type: secondary
 features:
   - title: 简洁
