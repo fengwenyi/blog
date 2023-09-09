@@ -27,7 +27,8 @@ export default defineUserConfig({
           children: [
             '/blog/',
             '/blog/getting-started.md',
-            '/blog/OffsetDateTime.md'
+            '/blog/OffsetDateTime.md',
+            '/blog/20230909_wechatAppletPayV3.md'
           ],
         },
       ],
