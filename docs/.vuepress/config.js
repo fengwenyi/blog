@@ -4,8 +4,8 @@ import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: '博客',
-  description: '技术博客',
+  title: '冯文议博客',
+  description: '冯文议技术博客, 技术总结与分享',
   head: [['link', { rel: 'icon', href: '/images/logo/favicon.ico' }]],
   theme: defaultTheme({
     logo: '/images/logo/logo-512x512.png',
