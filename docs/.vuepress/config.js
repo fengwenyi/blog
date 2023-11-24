@@ -29,7 +29,8 @@ export default defineUserConfig({
             '/blog/getting-started.md',
             '/blog/OffsetDateTime.md',
             '/blog/20230909_wechatAppletPayV3.md',
-            '/blog/my_spring-boot-starter.md'
+            '/blog/my_spring-boot-starter.md',
+            '/blog/springboot_rabbitmq_delay_queue.md'
           ],
         },
       ],
