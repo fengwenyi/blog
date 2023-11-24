@@ -30,7 +30,8 @@ export default defineUserConfig({
             '/blog/OffsetDateTime.md',
             '/blog/20230909_wechatAppletPayV3.md',
             '/blog/my_spring-boot-starter.md',
-            '/blog/springboot_rabbitmq_delay_queue.md'
+            '/blog/springboot_rabbitmq_delay_queue.md',
+            '/blog/rabbitmq_multiple_consumer.md'
           ],
         },
       ],
