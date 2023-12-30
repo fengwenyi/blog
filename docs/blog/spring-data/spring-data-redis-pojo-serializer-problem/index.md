@@ -1,4 +1,4 @@
-# Spring Data Redis对象缓存序列化问题
+# Spring Data Redis对象缓存问题
 
 
 
@@ -127,7 +127,7 @@ spring:
 
 测试：
 
-```
+```http
 ### getUserById
 GET http://localhost:8080/sample/user/1
 ```
