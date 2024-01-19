@@ -33,7 +33,8 @@ export default defineUserConfig({
             '/blog/springboot_rabbitmq_delay_queue.md',
             '/blog/rabbitmq_multiple_consumer.md',
             '/blog/springboot_event.md',
-            '/blog/spring-data/spring-data-redis-pojo-serializer-problem/index.md'
+            '/blog/spring-data/spring-data-redis-pojo-serializer-problem/index.md',
+            '/blog/spring-boot-aop-order.md',
           ],
         },
       ],
