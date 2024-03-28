@@ -9,5 +9,5 @@ actions:
 features:
   - title: 技术分享
     details: 技术总结与分享。
-footer: Copyright © 2023 Erwin Feng
+footer: Copyright © 2024 Erwin Feng
 ---
