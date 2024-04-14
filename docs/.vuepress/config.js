@@ -36,6 +36,7 @@ export default defineUserConfig({
             '/blog/spring-data/spring-data-redis-pojo-serializer-problem/index.md',
             '/blog/spring-boot-aop-order.md',
             '/blog/spel.md',
+ 	    '/blog/springboot-deployment.md',
           ],
         },
       ],
