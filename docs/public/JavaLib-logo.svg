@@ -1,0 +1,60 @@
+
+<svg
+  version="1.0"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="2400"
+  height="1800"
+>
+  <svg
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    width="0"
+    height="0"
+    viewBox="0 0 340.000000 250.000000"
+    preserveAspectRatio="xMidYMid meet"
+    color-interpolation-filters="sRGB"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+  >
+    <defs>
+      <pattern
+        id="watermark"
+        patternUnits="userSpaceOnUse"
+        width="100%"
+        height="100%"
+      >
+        <image
+          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAGQCAYAAAAUdV17AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTVGN0VCRjlGMjcwMTFFOUIyNjM4MDRGRkI5QkJENjEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTVGN0VCRkFGMjcwMTFFOUIyNjM4MDRGRkI5QkJENjEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpFNUY3RUJGN0YyNzAxMUU5QjI2MzgwNEZGQjlCQkQ2MSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpFNUY3RUJGOEYyNzAxMUU5QjI2MzgwNEZGQjlCQkQ2MSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pgp++w8AAAPuSURBVHja7NSxDQAACMMw+v/R5QoGJPuEDEnbAfgghgUYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYgGEZFmBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBhmVYgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgUYlgqAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQGGZViAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBRiWYQGGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWYFiGBRgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFiAYakAGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQFcWgEGAJzsrR2jCcEwAAAAAElFTkSuQmCC"
+          x="0"
+          y="0"
+          width="100%"
+          height="100%"
+        ></image>
+      </pattern>
+    </defs>
+  </svg>
+  <rect
+    x="0"
+    y="0"
+    width="100%"
+    height="100%"
+    fill="rgba(255,255,255,0)"
+    fill-opacity="1"
+  ></rect>
+  <svg
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    x="0"
+    y="0"
+    width="2400"
+    height="1800"
+    viewBox="0 0 340.000000 250.000000"
+    preserveAspectRatio="xMidYMid meet"
+    color-interpolation-filters="sRGB"
+  >
+    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#fa71cd"/> <stop offset="100%" stop-color="#9b59b6"/></linearGradient><linearGradient id="93" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f9d423"/> <stop offset="100%" stop-color="#f83600"/></linearGradient><linearGradient id="94" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0064d2"/> <stop offset="100%" stop-color="#1cb0f6"/></linearGradient><linearGradient id="95" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f00978"/> <stop offset="100%" stop-color="#3f51b1"/></linearGradient><linearGradient id="96" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7873f5"/> <stop offset="100%" stop-color="#ec77ab"/></linearGradient><linearGradient id="97" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f9d423"/> <stop offset="100%" stop-color="#e14fad"/></linearGradient><linearGradient id="98" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#009efd"/> <stop offset="100%" stop-color="#2af598"/></linearGradient><linearGradient id="99" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#ffcc00"/> <stop offset="100%" stop-color="#00b140"/></linearGradient><linearGradient id="100" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#d51007"/> <stop offset="100%" stop-color="#ff8177"/></linearGradient><linearGradient id="102" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#a2b6df"/> <stop offset="100%" stop-color="#0c3483"/></linearGradient><linearGradient id="103" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7ac5d8"/> <stop offset="100%" stop-color="#eea2a2"/></linearGradient><linearGradient id="104" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#00ecbc"/> <stop offset="100%" stop-color="#007adf"/></linearGradient><linearGradient id="105" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#b88746"/> <stop offset="100%" stop-color="#fdf5a6"/></linearGradient></defs> <g class="imagesvg isNoFont" transform="translate(140,95.00389671437472)"><g><rect fill="#333" fill-opacity="0" stroke-width="2" x="0" y="0" width="60" height="59.9922010138682" class="image-rect"/> <svg x="0" y="0" width="60" height="59.9922010138682" filtersec="colorsb5379313035" class="image-svg-svg primary" style="overflow: visible;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.025064129382371902 0.02431926503777504 99.97372436523438 99.96115112304688"><path d="M92.11 7.56a14.27 14.27 0 0 0-24.36 10.7A17.91 17.91 0 0 1 49.27 35.5a14.42 14.42 0 0 0-13.77 15A17.89 17.89 0 0 1 17 67.72a14.29 14.29 0 1 0 14.9 14.93 17.87 17.87 0 0 1 17.7-18.48h.8a14.23 14.23 0 0 0 7-2.2 13.93 13.93 0 0 0 2.6-2.09 14.23 14.23 0 0 0 4.15-9.45A17.87 17.87 0 0 1 81.86 32h.5a2.8 2.8 0 0 0 .29 0 14.27 14.27 0 0 0 9.46-24.44z" fill="#004e9a"/><path d="M75.59 43.5a14.22 14.22 0 0 0-4.15 10.7A17.93 17.93 0 0 1 53 71.44a14.28 14.28 0 1 0 14.91 14.9 17.86 17.86 0 0 1 17.65-18.46h.79A14.28 14.28 0 1 0 75.59 43.5zM36.28 4.19a14.22 14.22 0 0 0-4.15 10.7 17.91 17.91 0 0 1-18.48 17.23 14.29 14.29 0 1 0 14.89 14.93 17.87 17.87 0 0 1 17.7-18.48H47A14.28 14.28 0 1 0 36.28 4.19z" fill="#27b4d4"/><path d="M20.9 20.91a9.91 9.91 0 1 1 0-14 9.9 9.9 0 0 1 0 14zM93.21 93.21a9.91 9.91 0 1 1 0-14 9.9 9.9 0 0 1 0 14z" fill="#004e9a"/></svg></svg> </g></g><defs v-gra="od"/>
+  </svg>
+</svg>
+
+
