@@ -2,16 +2,16 @@
 layout: home
 
 hero:
-  name: "JavaLib"
-  text: "A Java Library"
+  name: "Erwin Feng Blog"
+  text: "Software Developer"
   image:
     src: /logo-512x512.png
     alt: JavaLib
   actions:
     - theme: brand
-      text: 快速开始
-      link: /3.0.0/
+      text: Blog
+      link: /blog
     - theme: alt
       text: GitHub
-      link: https://github.com/fengwenyi/JavaLib
+      link: https://github.com/fengwenyi
 ---

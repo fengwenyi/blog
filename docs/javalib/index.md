@@ -6,8 +6,6 @@ layout: doc
 
 java 17
 
-当前还是预览版本
-
 ## 添加依赖
 
 **Maven**
@@ -16,12 +14,18 @@ java 17
 <dependency>
     <groupId>com.fengwenyi</groupId>
     <artifactId>JavaLib</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.0</version>
 </dependency>
 ```
 
 **Gradle**
 
 ```groovy
-implementation 'com.fengwenyi:JavaLib:3.0.0-SNAPSHOT'
+implementation 'com.fengwenyi:JavaLib:3.0.0'
+```
+
+或
+
+```groovy
+implementation 'com.fengwenyi:JavaLib:+'
 ```

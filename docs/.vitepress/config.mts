@@ -6,13 +6,13 @@ import sidebar from './sidebar'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh',
-  title: "JavaLib",
-  description: "A Java Library",
+  title: "Erwin Feng Blog",
+  description: "Erwin Feng is a software developer. This is Erwin Feng's personal blog.",
   lastUpdated: true,
 
   themeConfig: {
     logo: '/logo-512x512.png',
-    logoLink: '/3.0.0/index',
+    logoLink: '/',
     lastUpdatedText: '更新时间',
     docFooter: {
       prev: '前一篇',
@@ -28,12 +28,12 @@ export default defineConfig({
     sidebar,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/fengwenyi/JavaLib' }
+      { icon: 'github', link: 'https://github.com/fengwenyi' }
     ],
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2017-2024 Erwin Feng'
+      copyright: 'Copyright ©2024 Erwin Feng'
     },
     search: {
       provider: 'local',
