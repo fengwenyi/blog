@@ -66,26 +66,7 @@
 
 ## 下载地址
 
-### Windows 版本
-- [Windows 64位安装包 v1.0.0](https://example.com/todo-windows-x64.exe)
-- [Windows 32位安装包 v1.0.0](https://example.com/todo-windows-x86.exe)
-- [Windows 便携版 v1.0.0](https://example.com/todo-windows-portable.zip)
-
-### macOS 版本
-- [macOS Intel芯片版 v1.0.0](https://example.com/todo-macos-intel.dmg)
-- [macOS Apple芯片版 v1.0.0](https://example.com/todo-macos-arm64.dmg)
-
-### Linux 版本
-- [Linux DEB包 v1.0.0](https://example.com/todo-linux.deb)
-- [Linux RPM包 v1.0.0](https://example.com/todo-linux.rpm)
-- [Linux AppImage v1.0.0](https://example.com/todo-linux.AppImage)
-
-### 移动端
-- [Android版本 v1.0.0](https://play.google.com/store/apps/details?id=com.todo)
-- [iOS版本 v1.0.0](https://apps.apple.com/app/todo)
-
-### 网页版
-- [在线使用](https://todo.example.com)
+- [Windows](https://ripple-api.fengwenyi.com/updater/TodoNest/TodoNest-Windows-1.0.2-Setup.exe)
 
 ## 系统要求
 

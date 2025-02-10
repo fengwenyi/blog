@@ -42,5 +42,11 @@ export default {
       {text: 'Spring Boot AOP 顺序', link: '/blog/spring-boot-aop-order.md'},
       {text: 'SpEL', link: '/blog/spel.md'},
       {text: 'Spring Boot 部署', link: '/blog/springboot-deployment.md'},
+      {
+        text: 'Electron',
+        items: [
+            { text: 'Electron App 自动更新', link: '/blog/electron/auto-update/electron-app-auto-update' },
+        ]
+      },
     ]
   }

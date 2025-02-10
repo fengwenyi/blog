@@ -1,15 +1,10 @@
 export default [
     {
-        text: '软件',
-        items: [
-            {
-                text: '待办清单',
-                link: '/software/todo/todo'
-            }
-        ]
+        text: 'TodoNest',
+        link: '/software/TodoNest/TodoNest'
     },
     {
-        text: 'blog',
+        text: '博客',
         link: '/blog/index',
     },
     {
