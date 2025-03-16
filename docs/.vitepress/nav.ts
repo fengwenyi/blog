@@ -1,7 +1,7 @@
 export default [
     {
         text: 'TodoNest',
-        link: '/software/TodoNest/TodoNest'
+        link: '/todo-nest/index'
     },
     {
         text: '博客',
