@@ -51,7 +51,8 @@ export default {
   ],
   '/todo-nest': [
     { text: '介绍', link: '/todo-nest/index.md' },
+    { text: '下载', link: '/todo-nest/download.md' },
     { text: '隐私协议', link: '/todo-nest/privacy.md' },
-    { text: '用户协议', link: '/todo-nest/agreement.md' },
+    { text: '服务协议', link: '/todo-nest/agreement.md' },
   ]
 }
