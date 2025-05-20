@@ -33,7 +33,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright ©2024 Erwin Feng'
+      copyright: 'Copyright ©2025 Erwin Feng'
     },
     search: {
       provider: 'local',
