@@ -116,11 +116,13 @@ sidebar: false
 
 服务类型：统计数据与分析
 
-收集个人信息类型：设备信息
-
-(设备序列号/Android ID/IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM 卡MS/地理位置等)
+收集个人信息类型： 设备信息(设备序列号/Android ID/IMEI/MAC/IDFA/OpenUDID/GUID/SIM 卡MS/地理位置等)、获取Wi-Fi SSID、获取Wi-Fi BSSID。
 
 隐私权政策链接：https://www.jiguang.cn/license/privacy
+
+### 1.8 收集/共享信息
+
+在你分享或接收被分享的信息时，需要在本地访问你的剪切板，读取其中包含的口令、分享码、链接，以实现跳转、分享、活动联动等功能或服务。
 
 
 ## 2\. 我们如何使用您的个人信息
