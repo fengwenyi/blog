@@ -48,6 +48,12 @@ export default {
         { text: 'Electron App 自动更新', link: '/blog/electron/auto-update/electron-app-auto-update' },
       ]
     },
+    {
+      text: 'Apple',
+      items: [
+        { text: 'iOS App发布到App Store', link: '/blog/apple/20250611_ios_app_store/ios_app_store' },
+      ]
+    },
   ],
   '/todo-nest': [
     { text: '介绍', link: '/todo-nest/index.md' },
